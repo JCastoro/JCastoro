@@ -1,7 +1,7 @@
 - Hi, I’m @JCastoro
 - I’m interested in learning and creating usable solutions while doing so.
 - I’m currently learning python and exploring ML.
-- I’m looking to collaborate on anything.
+- I’m looking to collaborate on anything where I can add value.
 - How to reach me: 
       https://www.linkedin.com/feed/
 
